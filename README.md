@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LeQuangLong2410.LeQuangLong2410" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Le+Quang+Long!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=;+I'm+Le+Quang+Long!👋;" />
 </h1>
 
 <h3 align="center">A passionate Frontend Developer from Vietnam 🇻🇳</h3>
@@ -34,7 +34,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 
 <div align="center">
@@ -42,6 +42,15 @@
 </div>
 
 <br/>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/LeQuangLong2410/LeQuangLong2410/output/github-contribution-grid-snake.svg" />
+</div>
+
 <hr/>
 
 <div align="center">
