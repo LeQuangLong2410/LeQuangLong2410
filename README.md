@@ -61,15 +61,10 @@
 
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">🌍 My Portfolio 🌍</h2>
 <br>
 
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=LeQuangLong2410&theme=tokyonight&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=LeQuangLong2410&show_icons=true&theme=tokyonight&border_radius=10" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeQuangLong2410&layout=compact&theme=tokyonight&border_radius=10" />
-</div>
+🚀 Links: https://lequanglong-portfolio.vercel.app/
 
 <br/>
 <hr/>
