@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Advanced JavaScript, UI/UX, and Backend Basics**
  
- 💬 Ask me about **HTML, CSS, JavaScript, or Web UI**
+ 💬 Ask me about **HTML, CSS, JavaScript, Next.js or Web UI...**
  
  ⚡ Fun fact: I love turning ideas into real web experiences
  
